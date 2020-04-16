@@ -21,7 +21,7 @@
 
 ### Machine Learning
 
- 1. [Machine Learning](https://www.coursera.org/learn/machine-learning) Offered By Stamford Instructed by Andrew Ng.
+ 1. [Machine Learning](https://www.coursera.org/learn/machine-learning) Offered By Stamford Instructed by Andrew Ng. [Notes](http://www.holehouse.org/mlclass/)
  2. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 
 #### Deep Learning
