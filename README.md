@@ -28,6 +28,7 @@
  1. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
  2. [The Deep Learning Book](https://www.deeplearningbook.org)
  3. [Dive into Deep Learning](http://d2l.ai)
+ 4. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## Data Science Specialization
 
