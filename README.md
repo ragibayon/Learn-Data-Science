@@ -8,19 +8,13 @@
 
  1. Khan Academy - [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
  2. Khan Academy - [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+ 3. [Think Stat](https://greenteapress.com/wp/think-stats-2e/)
+ 4. [Think Bayes](https://greenteapress.com/wp/think-bayes/)
 
  ***For R&D-heavy roles***
 
  1. MIT OCW [Linear Algebra 18.06SC](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
  2. MIT OCW [Multivariable Calculus 18.02SC](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-
-### Statistics for Data Science
-
- ***For application-heavy roles***
-
- 1. [Think Stat](https://greenteapress.com/wp/think-stats-2e/)
- 2. [Think Bayes](https://greenteapress.com/wp/think-bayes/)
- ***For R&D-heavy roles***
  3. [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
  4. [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
 
@@ -39,5 +33,6 @@
 
 1. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Offered By IBM instructed by Joseph Santarcangelo, Alex Aklson, Rav Ahuja, SAEED AGHABOZORGI, and Polong Lin.
 
-## Reference
+### Reference
+
  1. https://elitedatascience.com/learn-machine-learning
