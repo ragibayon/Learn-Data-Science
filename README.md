@@ -13,9 +13,9 @@
 
  ***For R&D-heavy roles***
 
- 1. MIT OCW [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning 18.065 / 18.0651](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
- 2. MIT OCW [Linear Algebra 18.06SC](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
- 3. MIT OCW [Multivariable Calculus 18.02SC](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+ 1. MIT OCW 18.06SC [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+ 2. MIT OCW 18.02SC [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+ 3. MIT OCW 18.065 / 18.0651 [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
  4. [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
  5. [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
 
