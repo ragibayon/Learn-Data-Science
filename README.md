@@ -24,7 +24,7 @@
 ### SQL
 
  1. W3 School - [SQL Tutorial](https://www.w3schools.com/sql/)
- 2. Tutorials Point[SQLite Tutorial](https://www.tutorialspoint.com/sqlite/index.htm)
+ 2. Tutorials Point - [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/index.htm)
 
 ## Machine Learning
 
