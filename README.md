@@ -18,6 +18,12 @@
  3. MIT OCW 18.065 / 18.0651 [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
  4. [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
  5. [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
+ 
+### Data Acquisition
+
+#### SQL
+[W3 Schhol](https://www.w3schools.com/sql/)
+
 
 ### Machine Learning
 
