@@ -2,7 +2,7 @@
 
  Data Science Learning path from scratch.
 
-### Math for Data Science
+## Math for Data Science
 
  ***For application-heavy roles***
 
@@ -18,19 +18,20 @@
  3. MIT OCW 18.065 / 18.0651 [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
  4. [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
  5. [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
- 
-### Data Acquisition
 
-#### SQL
-[W3 Schhol](https://www.w3schools.com/sql/)
+## Data Acquisition
 
+### SQL
 
-### Machine Learning
+ 1. W3 School - [SQL Tutorial](https://www.w3schools.com/sql/)
+ 2. Tutorials Point[SQLite Tutorial](https://www.tutorialspoint.com/sqlite/index.htm)
+
+## Machine Learning
 
  1. [Machine Learning](https://www.coursera.org/learn/machine-learning) Offered By Stamford Instructed by Andrew Ng. [Notes](http://www.holehouse.org/mlclass/)
  2. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 
-#### Deep Learning
+### Deep Learning
 
  1. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
  2. [The Deep Learning Book](https://www.deeplearningbook.org)
@@ -39,8 +40,9 @@
 
 ## Data Science Specialization
 
-1. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Offered By IBM instructed by Joseph Santarcangelo, Alex Aklson, Rav Ahuja, SAEED AGHABOZORGI, and Polong Lin.
+ 1. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Offered By IBM instructed by Joseph Santarcangelo, Alex Aklson, Rav Ahuja, SAEED AGHABOZORGI, and Polong Lin.
 
-### Reference
+## Reference
 
- 1. https://elitedatascience.com/learn-machine-learning
+* https://elitedatascience.com/learn-machine-learning
+* https://www.thebalancecareers.com/what-is-sql-and-uses-2071909
