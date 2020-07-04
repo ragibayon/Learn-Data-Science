@@ -1,48 +1,77 @@
-# Learn Data Science
+# How I learned Data Scicence
 
- Data Science Learning path from scratch.
+## Programming
 
-## Math for Data Science
+### Python
 
- ***For application-heavy roles***
+1. Python for Everybody Specialization
+    - Programming for Everybody (Getting Started with Python)
+    - Python Data Structures
+    - Using Python to Access Web Data
+    - Using Databases with Python
+    - Capstone: Retrieving, Processing, and Visualizing Data with Python
 
- 1. Khan Academy - [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
- 2. Khan Academy - [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
- 3. [Think Stat](https://greenteapress.com/wp/think-stats-2e/)
- 4. [Think Bayes](https://greenteapress.com/wp/think-bayes/)
+2. python 3 specialization
 
- ***For R&D-heavy roles***
-
- 1. MIT OCW 18.06SC [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
- 2. MIT OCW 18.02SC [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
- 3. MIT OCW 18.065 / 18.0651 [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
- 4. [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
- 5. [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
-
-## Data Acquisition
+3. Jetbrains academy
+4. Codecademy
 
 ### SQL
 
- 1. W3 School - [SQL Tutorial](https://www.w3schools.com/sql/)
- 2. Tutorials Point - [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/index.htm)
+1. SQL for Data science Specialization
+   - SQL for Data Science
+   - Getting Started and Selecting & Retrieving Data with SQL
+   - Distributed Computing with Spark SQL
+   - SQL for Data Science Capstone Project
+
+## Statistics
+
+1. Statistics for data science specialization
+
+## Data visualization
+
+### Tableau
+
+1. Data Visualization with Tableau Specialization
+    - Fundamentals of Visualization with Tableau
+    - Essential Design Principles for Tableau
+    - Visual Analytics with Tableau
+    - Creating Dashboards and Storytelling with Tableau
+2. Tableau eLearning
+
+## Specialization (Data Science)
+
+1. Applied Data Science with Python Specialization
+2. Practical Data Science with MATLAB Specialization
+3. Advanced Data Science with IBM Specialization
+4. Data Science Specialization John Hopkins (R)
+
+## Processional Certificate (Data Science)
+
+1. IBM Data Science Professional Certificate
+
+## Career Track (Data Science)
+
+1. Datacamp Data Scientist Career Track
+2. Codecademy Data Science Career Track
+
+## Mathematics (Machine Learning)
+
+1. Mathematics for Machine Learning Specialization
 
 ## Machine Learning
 
- 1. [Machine Learning](https://www.coursera.org/learn/machine-learning) Offered By Stamford Instructed by Andrew Ng. [Notes](http://www.holehouse.org/mlclass/)
- 2. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+1. Machine learning Stanford CS229
+2. Practical Machine Learning on H2O
 
-### Deep Learning
+## Specialization (Machine Learning)
 
- 1. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
- 2. [The Deep Learning Book](https://www.deeplearningbook.org)
- 3. [Dive into Deep Learning](http://d2l.ai)
- 4. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+1. Deep Learning Specialization
+2. AI for Medicine Specialization
+3. Advanced Machine Learning Specialization
+4. TensorFlow: Data and Deployment Specialization
+5. TensorFlow in Practice Specialization
 
-## Data Science Specialization
+## Professional Certificate (Machine Learning)
 
- 1. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) Offered By IBM instructed by Joseph Santarcangelo, Alex Aklson, Rav Ahuja, SAEED AGHABOZORGI, and Polong Lin.
-
-## Reference
-
-* https://elitedatascience.com/learn-machine-learning
-* https://www.thebalancecareers.com/what-is-sql-and-uses-2071909
+1. IBM AI Engineering Professional Certificate
