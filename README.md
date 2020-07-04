@@ -1,4 +1,4 @@
-# How I learned Data Scicence
+# How I'm planning to learn Data Science
 
 ## Programming
 
