@@ -27,6 +27,7 @@
 ## Statistics
 
 1. Statistics for data science specialization
+    - [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)
 
 ## Data visualization
 
