@@ -18,16 +18,18 @@
 
 ### SQL
 
-1. SQL for Data science Specialization
-   - SQL for Data Science
-   - Getting Started and Selecting & Retrieving Data with SQL
-   - Distributed Computing with Spark SQL
-   - SQL for Data Science Capstone Project
+1. [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science)
+   - [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
+   - [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting)
+   - [Distributed Computing with Spark SQL](https://www.coursera.org/learn/spark-sql)
+   - [SQL for Data Science Capstone Project](https://www.coursera.org/learn/sql-data-science-capstone)
 
 ## Statistics
 
 1. Statistics for data science specialization
     - [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)
+    - [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)
+    - [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
 
 ## Data visualization
 
