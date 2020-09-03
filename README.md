@@ -4,15 +4,8 @@
 
 ### Python
 
-1. Python for Everybody Specialization
-    - Programming for Everybody (Getting Started with Python)
-    - Python Data Structures
-    - Using Python to Access Web Data
-    - Using Databases with Python
-    - Capstone: Retrieving, Processing, and Visualizing Data with Python
-
-2. python 3 specialization
-
+1. [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+2. [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 3. Jetbrains academy
 4. Codecademy
 
